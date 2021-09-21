@@ -1,0 +1,4 @@
+- My personal website is https://rogeriobastos.gitlab.io/
+- I like to contribute to open source software and have some code spread over different projects
+- I also put code on [gitlab](https://gitlab.com/rogeriobastos)
+- I work as a **Security Engineer** and my [linkedin](https://linkedin.com/in/rogeriocbastos) profile can tell you more about this
